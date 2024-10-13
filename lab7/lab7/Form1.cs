@@ -74,15 +74,6 @@ namespace lab7
             this.Invalidate(); // Перемальовуємо вміст форми
         }
 
-        // Головний метод запуску програми
-        [STAThread]
-        public static void Main()
-        {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
-        }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             // Місце для коду, що виконується під час завантаження форми

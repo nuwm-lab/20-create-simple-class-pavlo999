@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\\u043A\u043D22 \u043D\u0443\u0432\u0433\u043F\\20-create-simple-class-pavlo999\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0656AB-C75B-4EC4-9A21-ED6EC30C4E20}|lab5\\lab5.csproj|c:\\users\\hp\\desktop\\\u043A\u043D22 \u043D\u0443\u0432\u0433\u043F\\20-create-simple-class-pavlo999\\lab5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0656AB-C75B-4EC4-9A21-ED6EC30C4E20}|lab5\\lab5.csproj|solutionrelative:lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\\u043A\u043D22 \u043D\u0443\u0432\u0433\u043F\\20-create-simple-class-pavlo999\\lab5\\lab5\\Program.cs",
+              "RelativeDocumentMoniker": "lab5\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\\u043A\u043D22 \u043D\u0443\u0432\u0433\u043F\\20-create-simple-class-pavlo999\\lab5\\lab5\\Program.cs",
+              "RelativeToolTip": "lab5\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAIwF4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:58:29.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
