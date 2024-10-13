@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\bin\Debug\net8.0\lab3.exe
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\bin\Debug\net8.0\lab3.deps.json
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\bin\Debug\net8.0\lab3.runtimeconfig.json
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\bin\Debug\net8.0\lab3.dll
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\bin\Debug\net8.0\lab3.pdb
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\obj\Debug\net8.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\obj\Debug\net8.0\lab3.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\obj\Debug\net8.0\lab3.AssemblyInfo.cs
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\obj\Debug\net8.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\obj\Debug\net8.0\lab3.sourcelink.json
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\obj\Debug\net8.0\lab3.dll
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\obj\Debug\net8.0\refint\lab3.dll
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\obj\Debug\net8.0\lab3.pdb
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\obj\Debug\net8.0\lab3.genruntimeconfig.cache
+C:\Users\hp\Desktop\кн22 нувгп\20-create-simple-class-pavlo999\lab3\lab3\obj\Debug\net8.0\ref\lab3.dll
